@@ -1,12 +1,36 @@
 This is a Weather app created with JavaScript. It fetchs live weather data from Open Weather Map API.
 
-Author: Wairimu Kuria Contact: mimokuria@gmail.com or wairimukuria@eliveltd.com
+## Author
 
-DESCRIPTION:This project is built using HTML in design and CSS and Javascript to make the website presentable and colorful.
+Wairimu Kuria Contact: mimokuria@gmail.com or wairimukuria@eliveltd.com
 
-INSTALLATION Just follow the following steps to have it in your computer. Google https://wairimu2018.github.io/Phase-1-Project/ git clone on your directory(local computer) -Open command line and then type the following line. $ git clone https://wairimu2018.github.io/Phase-1-Project/.
+## DESCRIPTION
 
-LICENSE The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+This project is built using HTML in design and CSS and Javascript to make the website presentable and colorful.
+
+## Functionalities
+
+- Weather forecast over 3 days
+    - Weather (clouds / sun / rain / ...)
+    - Temperature, Humidity
+    - Sunrise, Sunset
+- Display weather forecast from a city name
+    - Search a city via the input in the form
+    - Search a city via the URL. 
+- Display weather forecast from the user geolocation
+- Display a custom gradient background according to the temperature
+- URL on the city name to Google Map
+- Responsive application
+
+INSTALLATION
+Follow the following steps:
+
+1. Google https://github.com/Wairimu2018/Phase-1-Project.git
+2. Git clone on your directory(local computer) 
+3. Open command line and then type the following line.
+4. Git clone https://github.com/Wairimu2018/Phase-1-Project.git.
+
+Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
 Feel free to rate my work.
 
